@@ -1,4 +1,4 @@
-package unidad2;
+package ejercicio11;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package unidad2;
+package ejercicio12;
 
 import java.util.Scanner;
 
@@ -6,8 +6,9 @@ public class ejercicio12 {
 
 	static Scanner entrada = new Scanner(System.in);
 	
-	static public
-	
+	public static void main(String[] args) {
+
+	}
 	
 	
 }
